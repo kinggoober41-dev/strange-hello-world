@@ -7,8 +7,8 @@ import os
 
 class GameInfo:
     def __init__(self):
-        self.TitleId: str = "1C1614"
-        self.SecretKey: str = "FHHPO3UZB711PZM3JEO9MM17XZXDZJMT9JYS54FH4MHZN1FRJI"
+        self.TitleId: str = "53A03"
+        self.SecretKey: str = "5D9K3RIYJ3JYIUJ13537HMFFTYX9OZGSAEO3JM9IGQ1XWSMMAF"
         self.ApiKey: str = ""
         
 
